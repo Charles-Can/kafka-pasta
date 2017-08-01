@@ -716,6 +716,10 @@ clone@^1.0.0, clone@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.2.tgz#260b7a99ebb1edfe247538175f783243cb19d149"
 
+cmdify@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/cmdify/-/cmdify-0.0.4.tgz#268d2a60afe026a8c33d3fbbacf0f7038c6113d2"
+
 co@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/co/-/co-4.6.0.tgz#6ea6bdf3d853ae54ccb8e47bfa0bf3f9031fb184"
